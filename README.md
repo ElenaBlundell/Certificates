@@ -1,8 +1,7 @@
-# Certificates
-Certificates from courses and organizations I have earned
+# freeCodeCamp
+Projects I built for Responsive Web Design. Developer Certification
 
-1. Responsive Web Design
-   Developer Certification, representing approximately 300 hours of coursework.
+Responsive Web Design Developer Certification, representing approximately 300 hours of coursework.
 
 As part of this certification, Elena Blundell built the following projects and got all automated test suites to pass:
 - Survey Form
